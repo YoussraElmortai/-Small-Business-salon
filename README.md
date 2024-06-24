@@ -1,2 +1,2 @@
-# -Small-Business-salon
+# Small Business 🫶
 Building a website for a small business (beauty salon)
